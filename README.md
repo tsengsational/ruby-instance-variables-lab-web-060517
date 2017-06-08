@@ -11,7 +11,7 @@
 When we build objects through our own classes we know we can add behavior to the objects through instance methods. But how do we give our objects data? For example, how would we teach a dog what its name is? Or what breed it is? How do we put data inside of an instance of an object so that each dog can have its own name and own breed? How do we give objects attributes or properties?
 
 ##Instructions
-Run your tests with `learn` to get an overview of what we are trying to do. Then follow along below for how to get your tests to pass.
+Run your tests with `learn` to get an overview of what we are trying to do. Then follow along below for how to get your tests to pass. 
 
 ## What Is An Instance Variable?
 
